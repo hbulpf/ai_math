@@ -1,6 +1,7 @@
 {
     "title": "AI Math",
     "author": "HeCloud",
+    "description": "AI 数学基础",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "links": {
@@ -14,9 +15,20 @@
         "github-buttons",
         "copy-code-button",
         "-lunr",
-        "-search",
-        "search-plus",
+        "-search","search-plus",
         "expandable-chapters-small",
-        "anchor-navigation-ex"
-    ]
+        "anchor-navigation-ex",
+        "donate"
+    ],
+    "pluginConfig":{
+        "github": {
+            "url": "https://github.com/hbulpf/ai_math"
+        },
+        "donate": {
+            "alipay": "./source/images/donate.png",
+            "title": "",
+            "button": "赞赏",
+            "alipayText": "支付宝"
+        }
+    }
 }
