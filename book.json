@@ -2,6 +2,7 @@
     "title": "AI Math",
     "author": "HeCloud",
     "language": "zh-hans",
+    "gitbook": "3.2.3",
     "links": {
         "sidebar": {
             "Home": "http://hecloud.hnbdata.cn/"
@@ -15,6 +16,7 @@
         "-lunr",
         "-search",
         "search-plus",
+        "summary",
         "expandable-chapters-small",
         "anchor-navigation-ex"
     ]
