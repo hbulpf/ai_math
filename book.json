@@ -12,7 +12,7 @@
     "plugins": [
         "mathjax@^1.0.1",
         "splitter",
-        "github-buttons",
+        "github",
         "copy-code-button",
         "-lunr",
         "-search","search-plus",
