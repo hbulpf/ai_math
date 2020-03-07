@@ -20,7 +20,7 @@
         "anchor-navigation-ex",
         "donate"
     ],
-    "pluginConfig":{
+    "pluginsConfig":{
         "github": {
             "url": "https://gitee.com/sifangcloud/ai_math"
         },
