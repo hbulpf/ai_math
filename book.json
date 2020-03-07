@@ -22,7 +22,7 @@
     ],
     "pluginConfig":{
         "github": {
-            "url": "https://github.com/hbulpf/ai_math"
+            "url": "https://gitee.com/sifangcloud/ai_math"
         },
         "donate": {
             "alipay": "./source/images/donate.png",
