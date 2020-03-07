@@ -9,7 +9,7 @@
         }
     },
     "plugins": [
-        "mathjax",
+        "mathjax@^1.0.1",
         "splitter",
         "github-buttons",
         "copy-code-button",
