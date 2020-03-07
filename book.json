@@ -1,0 +1,21 @@
+{
+    "title": "AI Math",
+    "author": "HeCloud",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Home": "http://hecloud.hnbdata.cn/"
+        }
+    },
+    "plugins": [
+        "mathjax",
+        "splitter",
+        "github-buttons",
+        "copy-code-button",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "expandable-chapters-small",
+        "anchor-navigation-ex"
+    ]
+}
